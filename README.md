@@ -85,4 +85,8 @@ php -d memory_limit=2G $(which composer) require magento/quality-patches
 
 apt-get install iputils-ping
 
+## Install plugin paypal(Módulo PayPal para Magento2)
+`https://github.com/br-paypaldev/magento2-module`
+- https://github.com/br-paypaldev/magento2-module
+
 ## Renato Lucena 09/2020

@@ -1,4 +1,4 @@
-# magento 2.35
+# magento 2.3.5
 
 <p align="center"><a href="https://github.com/lucenarenato/magento_2.35" target="_blank"><img src="1.jpg" width="400"></a></p>
 

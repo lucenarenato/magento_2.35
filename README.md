@@ -1,4 +1,4 @@
-# magento_2.35
+# magento 2.35
 
 <p align="center"><a href="https://github.com/lucenarenato/magento_2.35" target="_blank"><img src="1.jpg" width="400"></a></p>
 
@@ -88,5 +88,17 @@ apt-get install iputils-ping
 ## Install plugin paypal(Módulo PayPal para Magento2)
 `https://github.com/br-paypaldev/magento2-module`
 - https://github.com/br-paypaldev/magento2-module
+
+# install extension Paybox magento 2
+php -d memory_limit=2G $(which composer) require paybox/epayment
+
+Mage ID
+MAG002073159
+Username
+cpdrenato
+Email
+cpdrenato@gmail.com
+- https://marketplace.magento.com/
+- https://github.com/PayboxByVerifone/Magento-2.0.x-2.2.x
 
 ## Renato Lucena 09/2020
